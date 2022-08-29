@@ -1,7 +1,7 @@
 # login-form-html-css
-This is a Simple Login Page or Sign up Page using Html and Css. [Live Demo](https://sm8uti.github.io/login-form-html-css/)
+This is a Simple Login Page or Sign up Page using Html and Css. 
 
-link : `https://sm8uti.github.io/login-form-html-css/`
+
 
 `Html and CSS`
 
